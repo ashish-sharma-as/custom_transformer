@@ -2,7 +2,7 @@
 ## Sklearn custom transformer for data preprocessing and step within ML pipeline
 ## Sklearn-pandas DataFrameMapper
 
-<img src="custom_transformer.PNG">
+<img src="AS-cust_tf">
 
 ---
 
